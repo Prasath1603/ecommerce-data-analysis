@@ -1,5 +1,5 @@
 # Customer Segmentation Analysis Report
-By [FirstName LastName]
+By MALLIPRASATH S
 
 ## Executive Summary
 This report presents the results of customer segmentation analysis performed on the e-commerce dataset using K-means clustering. The analysis identified optimal customer segments based on transaction history, purchase behavior, and demographic information.
