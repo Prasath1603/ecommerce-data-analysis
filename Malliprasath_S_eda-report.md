@@ -1,6 +1,6 @@
 # E-Commerce Data Analysis Report
 ## Business Insights
-By [FirstName LastName]
+By MALLIPRASATH S
 
 ### Insight 1: Regional Market Dominance
 Analysis of customer distribution shows that [Region X] accounts for 45% of our customer base, with the highest average order value of $X. This suggests an opportunity to replicate successful marketing strategies from this region in other markets.
